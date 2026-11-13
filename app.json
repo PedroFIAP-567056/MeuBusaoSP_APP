@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Meu Busão SP",
+    "slug": "meu-busao-sp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "O Meu Busão SP usa sua localização para achar os pontos de ônibus perto de você e avisar a hora de sair."
+        }
+      ],
+      "expo-notifications"
+    ]
+  }
+}

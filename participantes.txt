@@ -1,0 +1,16 @@
+Global Solution 2026.2 - Cross-Platform Application Development
+Projeto: Meu Busão SP
+
+O trabalho foi feito em conjunto, em chamada, com os três integrantes.
+Toda a codificação foi feita pelo Pedro; o Nícolas e a Sofia acompanharam
+a chamada auxiliando nas ideias, nas decisões e nos testes.
+
+Pedro Ricardo de Almeida - RM 567056
+O que fez: Toda a codificação do app (criação do projeto, ligação com a API,
+GPS, telas, navegação e notificações), README e versionamento
+
+Nícolas Borges Natal - RM 568230
+O que fez: Auxiliou o Pedro durante a chamada, nas ideias, nas decisões e nos testes
+
+Sofia Lima - RM 567824
+O que fez: Auxiliou o Pedro durante a chamada, nas ideias, nas decisões e nos testes
