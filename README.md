@@ -5,6 +5,8 @@ Trabalho da Global Solution 2026.2 de Cross-Platform Application Development (FI
 App mobile em React Native (Expo) que usa a API Olho Vivo da SPTrans, o GPS e os alertas do
 celular para quem anda de ônibus em São Paulo **não perder o ônibus**.
 
+**Vídeo do app funcionando:** https://www.youtube.com/shorts/L423pK_XS6o
+
 ## O que o app faz
 
 **Pontos perto de mim**
